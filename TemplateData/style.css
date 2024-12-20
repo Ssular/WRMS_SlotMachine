@@ -32,7 +32,6 @@ body {
 #unity-logo {
   width: 324px;
   height: 181px;
-  transform: scale(1.5, 1.5);
   background: url("footer-bi-wrms.png") no-repeat center;
 }
 #unity-progress-bar-empty {
